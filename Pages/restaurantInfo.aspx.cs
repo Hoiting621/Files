@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace WebApplication1.Web.Pages
+{
+    public partial class restaurantInfo : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void order_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void comment_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void book_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
